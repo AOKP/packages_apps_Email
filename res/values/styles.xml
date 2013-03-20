@@ -228,5 +228,9 @@
         <item name="android:textColor">#777777</item>
         <item name="android:textSize">12sp</item>
     </style>
+
+    <style name="SlimTheme" parent="@*android:style/Theme.Holo.Light" />
+    <style name="SlimThemeDialogWhenLarge" parent="@*android:style/Theme.Holo.Light.DialogWhenLarge" />
+
 </resources>
 
